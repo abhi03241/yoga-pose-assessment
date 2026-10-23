@@ -1,0 +1,32 @@
+ | https://commons.wikimedia.org/wiki/File%3AThe%20Minister%20of%20State%20for%20Home%20Affairs%2C%20Shri%20Kiren%20Rijiju%20performing%20Yoga%2C%20on%20the%20occasion%20of%20the%203rd%20International%20Day%20of%20Yoga%20%E2%80%93%202017%2C%20in%20Gangtok%2C%20Sikkim%20on%20June%2021%2C%202017%20%281%29.jpg
+Test photos downloaded from Wikimedia Commons (see licence per file):
+boat_1.jpg: File:Ardha-Navāsana.JPG | CC BY-SA 4.0 | Iveto | https://commons.wikimedia.org/wiki/File%3AArdha-Nav%C4%81sana.JPG
+boat_2.jpg: File:Ardha Navāsana-half-boat.jpg | CC BY-SA 3.0 | Jfbongarçon | https://commons.wikimedia.org/wiki/File%3AArdha%20Nav%C4%81sana-half-boat.jpg
+bridge_1.jpg: File:Anil Shrikrishna Manekar - Setubandhasana - International Day of Yoga Celebration - NCSM - Kolkata 2015-06-21 7399.JPG | CC BY 3.0 | Biswarup Ganguly | https://commons.wikimedia.org/wiki/File%3AAnil%20Shrikrishna%20Manekar%20-%20Setubandhasana%20-%20International%20Day%20of%20Yoga%20Celebration%20-%20NCSM%20-%20Kolkata%202015-06-21%207399.JPG
+bridge_2.jpg: File:Dvipada pitham.jpg | CC BY-SA 3.0 | Joseph RENGER | https://commons.wikimedia.org/wiki/File%3ADvipada%20pitham.jpg
+chair_1.jpg: File:A style of Utkatasana.JPG | CC BY-SA 3.0 | Thamizhpparithi Maari | https://commons.wikimedia.org/wiki/File%3AA%20style%20of%20Utkatasana.JPG
+chair_2.jpg: File:The Minister of State for Home Affairs, Shri Kiren Rijiju performing Yoga, on the occasion of the 3rd International Day of Yoga – 2017, in Gangtok, Sikkim on June 21, 2017 (1).jpg | GODL-India | Ministry of Home Affairs
+child_1.jpg: File:Balasana.JPG | CC BY-SA 4.0 | Iveto | https://commons.wikimedia.org/wiki/File%3ABalasana.JPG
+child_2.jpg: File:Balasana zamkovoi.jpg | CC BY-SA 4.0 | Sezam777 | https://commons.wikimedia.org/wiki/File%3ABalasana%20zamkovoi.jpg
+cobra_1.jpg: File:Bhujangasana1.JPG | CC BY-SA 4.0 | Iveto | https://commons.wikimedia.org/wiki/File%3ABhujangasana1.JPG
+cobra_2.jpg: File:Bhujangasana Yoga-Asana Nina-Mel.jpg | CC BY 3.0 | Kennguru | https://commons.wikimedia.org/wiki/File%3ABhujangasana%20Yoga-Asana%20Nina-Mel.jpg
+downdog_1.jpg: File:5adho mukha shvanasana.JPG | CC BY-SA 3.0 | Joseph RENGER | https://commons.wikimedia.org/wiki/File%3A5adho%20mukha%20shvanasana.JPG
+downdog_2.jpg: File:Yoga (9707545272).jpg | CC BY 2.0 | Dave Rosenblum | https://commons.wikimedia.org/wiki/File%3AYoga%20%289707545272%29.jpg
+goddess_1.jpg: File:2007-08-24 ytc hawaii 5821.jpg | CC BY-SA 3.0 | Loveobx23 | https://commons.wikimedia.org/wiki/File%3A2007-08-24%20ytc%20hawaii%205821.jpg
+goddess_2.jpg: File:Mr-yoga-sideways-kali-squat.jpg | CC BY-SA 4.0 | Mr. Yoga | https://commons.wikimedia.org/wiki/File%3AMr-yoga-sideways-kali-squat.jpg
+lunge_1.jpg: File:Anjaneyasana, Heinz Grill 1992.jpg | CC BY-SA 4.0 | Martin Sinzinger, Fotograf | https://commons.wikimedia.org/wiki/File%3AAnjaneyasana%2C%20Heinz%20Grill%201992.jpg
+lunge_2.jpg: File:Jóga Anjaneyasana.jpg | CC BY-SA 4.0 | Hanako.R | https://commons.wikimedia.org/wiki/File%3AJ%C3%B3ga%20Anjaneyasana.jpg
+mountain_1.jpg: File:Mr-yoga--mountain-pose-reverse-prayer.jpg | CC BY-SA 4.0 | Mr. Yoga | https://commons.wikimedia.org/wiki/File%3AMr-yoga--mountain-pose-reverse-prayer.jpg
+mountain_2.jpg: File:Mr-yoga-mountain-pose-1.jpg | CC BY-SA 4.0 | Mr. Yoga | https://commons.wikimedia.org/wiki/File%3AMr-yoga-mountain-pose-1.jpg
+plank_1.jpg: File:Chaturanga dandasana 1.jpg | CC BY-SA 4.0 | Sezam777 | https://commons.wikimedia.org/wiki/File%3AChaturanga%20dandasana%201.jpg
+plank_2.jpg: File:Caturaṅga Daṇḍāsana-Four-Limbed Staff.jpg | CC BY-SA 3.0 | Jfbongarçon | https://commons.wikimedia.org/wiki/File%3ACatura%E1%B9%85ga%20Da%E1%B9%87%E1%B8%8D%C4%81sana-Four-Limbed%20Staff.jpg
+tree_1.jpg: File:A style of vrikshasana 3.JPG | CC BY-SA 3.0 | Thamizhpparithi Maari | https://commons.wikimedia.org/wiki/File%3AA%20style%20of%20vrikshasana%203.JPG
+tree_2.jpg: File:A style of vrikshasana 4.JPG | CC BY-SA 3.0 | Thamizhpparithi Maari | https://commons.wikimedia.org/wiki/File%3AA%20style%20of%20vrikshasana%204.JPG
+triangle_1.jpg: File:A style of parivrtta trikonasana.JPG | CC BY-SA 3.0 | Thamizhpparithi Maari | https://commons.wikimedia.org/wiki/File%3AA%20style%20of%20parivrtta%20trikonasana.JPG
+triangle_2.jpg: File:Parivrtta-Trikonasana Yoga-Asana Nina-Mel.jpg | CC BY 3.0 | Kennguru | https://commons.wikimedia.org/wiki/File%3AParivrtta-Trikonasana%20Yoga-Asana%20Nina-Mel.jpg
+updog_1.jpg: File:7urdhva mukha shvanasana.JPG | CC BY-SA 3.0 | Joseph RENGER | https://commons.wikimedia.org/wiki/File%3A7urdhva%20mukha%20shvanasana.JPG
+updog_2.jpg: File:Upward-facing dog pose.jpg | CC BY-SA 3.0 | Pax Ahimsa Gethen | https://commons.wikimedia.org/wiki/File%3AUpward-facing%20dog%20pose.jpg
+warrior1_1.jpg: File:Rocket-yoga-01-4000px.jpg | CC BY 4.0 | Lilian White | https://commons.wikimedia.org/wiki/File%3ARocket-yoga-01-4000px.jpg
+warrior1_2.jpg: File:Rocket-yoga-06-4000px.jpg | CC BY 4.0 | Lilian White | https://commons.wikimedia.org/wiki/File%3ARocket-yoga-06-4000px.jpg
+warrior2_1.jpg: File:Virabhadrasana II - Warrior II Pose.jpg | CC BY 2.0 | lululemon athletica | https://commons.wikimedia.org/wiki/File%3AVirabhadrasana%20II%20-%20Warrior%20II%20Pose.jpg
+warrior2_2.jpg: File:Yoga (9707554768).jpg | CC BY 2.0 | Dave Rosenblum | https://commons.wikimedia.org/wiki/File%3AYoga%20%289707554768%29.jpg
